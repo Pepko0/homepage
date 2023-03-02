@@ -1,0 +1,33 @@
+
+html {
+    box-sizing: border-box;
+}
+
+*, ::before, ::after {
+    box-sizing: inherit;
+}
+
+.naglowek {
+    color: rgb(88, 37, 37);
+}
+
+.tlo {
+    background-color: #ececec;
+}
+
+.pogrubienienie { 
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+.tekst{
+    background-color: rgb(255, 255, 255);
+}
+
+.zainteresowania{
+    background-color: white;
+}
+
+.photo{
+    background-color: #ffffff;
+}

@@ -1,0 +1,7 @@
+.article {
+    max-width: 900px;
+    box-shadow: 2px 2px 1px #ccc;
+    padding: 10px;
+    margin: 10px auto;
+    background: white;
+}
