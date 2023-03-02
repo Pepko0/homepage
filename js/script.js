@@ -1,4 +1,4 @@
-console.log("Cześć tą stronę przygotował Kacper Lewko");
+console.log("Cześć tą stronę przygotował Kacper Lewko. Działam teraz na gitubie");
 
 let przycisk = document.querySelector(".przycisk");
 
